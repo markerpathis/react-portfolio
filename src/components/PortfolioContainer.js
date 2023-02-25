@@ -5,6 +5,12 @@ import Contact from "./pages/Contact";
 import Portfolio from "./pages/Portfolio";
 import Resume from "./pages/Resume";
 
+const styles = {
+  card: {
+    margin: 20,
+  },
+};
+
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState("About");
 
@@ -24,7 +30,7 @@ export default function PortfolioContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div style={styles.card}>
       <Header currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>
