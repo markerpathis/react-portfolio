@@ -6,6 +6,7 @@ const styles = {
   footer: {
     display: "flex",
     justifyContent: "center",
+    paddingTop: "50px",
   },
 };
 
