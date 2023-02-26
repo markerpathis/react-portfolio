@@ -1,5 +1,6 @@
 import React from "react";
 import PortfolioCard from "./PortfolioCard";
+import CardGroup from "react-bootstrap/CardGroup";
 
 import portfolioImage1 from "../assets/retro-systems.jpg";
 import portfolioImage2 from "../assets/jp-choose-your-own.jpg";
@@ -66,7 +67,11 @@ const portfolioContent = [
 ];
 
 function PortfolioComponent() {
-  return <PortfolioCard portfolioContent={portfolioContent} />;
+  return (
+    <CardGroup>
+      <PortfolioCard portfolioContent={portfolioContent} />
+    </CardGroup>
+  );
 }
 
 export default PortfolioComponent;
