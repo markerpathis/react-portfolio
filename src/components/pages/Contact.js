@@ -6,6 +6,15 @@ import "../../styles/content.css";
 export default function Contact() {
   return (
     <Form className="content">
+      <h2>Contact</h2>
+      <p>
+        <br></br> Contact details are included below: <br></br>
+        <br></br>Parker Mathis<br></br>425-418-2121
+        <br></br>parkerjmathis@gmail.com
+        <br></br>
+        <br></br>***Please note: Form is currently under development and is not ready to submit messages.***
+      </p>
+
       <Form.Group className="mb-3">
         <Form.Label>Name</Form.Label>
         <Form.Control type="text" placeholder="Enter name" />
