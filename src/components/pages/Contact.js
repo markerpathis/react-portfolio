@@ -6,6 +6,7 @@ import "../../styles/content.css";
 const styles = {
   button: {
     backgroundColor: "#1D3557",
+    border: "transparent",
   },
 };
 

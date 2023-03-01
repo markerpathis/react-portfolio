@@ -5,6 +5,7 @@ import "../../styles/content.css";
 export default function About() {
   return (
     <div className="content">
+      <h2>About Me</h2>
       <div>
         <img src={parkerImage} alt="" height="200px" />
       </div>
