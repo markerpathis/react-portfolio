@@ -3,6 +3,12 @@ import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import "../../styles/content.css";
 
+const styles = {
+  button: {
+    backgroundColor: "#1D3557",
+  },
+};
+
 export default function Contact() {
   return (
     <Form className="content">
@@ -30,7 +36,8 @@ export default function Contact() {
         <Form.Control as="textarea" placeholder="Leave a message here" style={{ height: "100px" }} />
       </Form.Group>
 
-      <Button variant="primary" type="submit">
+      {/* <Button variant="primary" type="submit"> */}
+      <Button style={styles.button} type="submit">
         Submit
       </Button>
     </Form>

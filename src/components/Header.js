@@ -4,12 +4,14 @@ import Navbar from "react-bootstrap/Navbar";
 
 const styles = {
   heading: {
-    background: "#e3f2fd",
+    background: "#A8DADC",
     minHeight: 50,
     lineHeight: 2.5,
     fontSize: "1.2rem",
-    color: "black",
     padding: "0 20px",
+  },
+  headingText: {
+    color: "white",
   },
 };
 
