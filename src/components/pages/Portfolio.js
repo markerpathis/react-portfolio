@@ -1,5 +1,4 @@
 import React from "react";
-import "../../styles/content.css";
 import PortfolioComponent from "../PortfolioContent";
 
 export default function Portfolio() {

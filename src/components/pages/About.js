@@ -1,6 +1,5 @@
 import React from "react";
 import parkerImage from "../../assets/parkerImage.png";
-import "../../styles/content.css";
 
 export default function About() {
   return (
