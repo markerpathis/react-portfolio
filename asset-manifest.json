@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.84ab599e.css",
-    "main.js": "/static/js/main.1fb976a4.js",
-    "static/media/jp-choose-your-own.jpg": "/static/media/jp-choose-your-own.500dcd692d469b32f960.jpg",
-    "static/media/top-down-view1.jpg": "/static/media/top-down-view1.fa9dee0baeacacdd4fc9.jpg",
-    "static/media/top-down-view2.jpg": "/static/media/top-down-view2.74a1cde429f74b91c03c.jpg",
-    "static/media/movie-moodboard.png": "/static/media/movie-moodboard.ebe17b0ef4bb07bb370a.png",
-    "static/media/sketch-plan.jpg": "/static/media/sketch-plan.9b269b75f0686e491936.jpg",
-    "static/media/retro-systems.jpg": "/static/media/retro-systems.d6881ce2173e6f27da39.jpg",
-    "static/media/parkerImage.png": "/static/media/parkerImage.305bd33d7c97fef3c019.png",
-    "static/media/Resume.pdf": "/static/media/Resume.5c8f41e1fae257ea78f2.pdf",
-    "index.html": "/index.html",
-    "main.84ab599e.css.map": "/static/css/main.84ab599e.css.map",
-    "main.1fb976a4.js.map": "/static/js/main.1fb976a4.js.map"
+    "main.css": "/react-portfolio/static/css/main.84ab599e.css",
+    "main.js": "/react-portfolio/static/js/main.34a8648c.js",
+    "static/media/jp-choose-your-own.jpg": "/react-portfolio/static/media/jp-choose-your-own.500dcd692d469b32f960.jpg",
+    "static/media/top-down-view1.jpg": "/react-portfolio/static/media/top-down-view1.fa9dee0baeacacdd4fc9.jpg",
+    "static/media/top-down-view2.jpg": "/react-portfolio/static/media/top-down-view2.74a1cde429f74b91c03c.jpg",
+    "static/media/movie-moodboard.png": "/react-portfolio/static/media/movie-moodboard.ebe17b0ef4bb07bb370a.png",
+    "static/media/sketch-plan.jpg": "/react-portfolio/static/media/sketch-plan.9b269b75f0686e491936.jpg",
+    "static/media/retro-systems.jpg": "/react-portfolio/static/media/retro-systems.d6881ce2173e6f27da39.jpg",
+    "static/media/parkerImage.png": "/react-portfolio/static/media/parkerImage.305bd33d7c97fef3c019.png",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.5c8f41e1fae257ea78f2.pdf",
+    "index.html": "/react-portfolio/index.html",
+    "main.84ab599e.css.map": "/react-portfolio/static/css/main.84ab599e.css.map",
+    "main.34a8648c.js.map": "/react-portfolio/static/js/main.34a8648c.js.map"
   },
   "entrypoints": [
     "static/css/main.84ab599e.css",
-    "static/js/main.1fb976a4.js"
+    "static/js/main.34a8648c.js"
   ]
 }
