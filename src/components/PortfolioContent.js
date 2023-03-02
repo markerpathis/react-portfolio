@@ -14,7 +14,7 @@ const portfolioContent = [
   {
     id: 1,
     title: "Group Project 2 (New DND)",
-    description: "Short description... project 2",
+    description: "January 2023",
     deployedUrl: "https://new-dnd7.herokuapp.com/",
     githubUrl: "https://github.com/deafboi6/newDND",
     image: portfolioImage1,
@@ -23,7 +23,7 @@ const portfolioContent = [
   {
     id: 2,
     title: "Group Project 1 (Movie Moodboard)",
-    description: "Short description... project 1",
+    description: "November 2022",
     deployedUrl: "https://abbeydoyle.github.io/movie-moodboard/",
     githubUrl: "https://github.com/abbeydoyle/movie-moodboard",
     image: portfolioImage6,
@@ -32,7 +32,7 @@ const portfolioContent = [
   {
     id: 3,
     title: "PWA: Text Editor",
-    description: "Short description... JATE",
+    description: "February 2023",
     deployedUrl: "https://pwa-text-editor-markerpathis.herokuapp.com/",
     githubUrl: "https://github.com/markerpathis/progressive-webapp-text-editor",
     image: portfolioImage2,
@@ -41,7 +41,7 @@ const portfolioContent = [
   {
     id: 4,
     title: "MVC Tech Blog (Code Onion)",
-    description: "Short description... Code Onion",
+    description: "January 2023",
     deployedUrl: "https://code-onion.herokuapp.com/",
     githubUrl: "https://github.com/markerpathis/mvc-tech-blog",
     image: portfolioImage3,
@@ -50,7 +50,7 @@ const portfolioContent = [
   {
     id: 5,
     title: "Express JS Note Taker",
-    description: "Short description... JS Note Taker",
+    description: "December 2022",
     deployedUrl: "https://note-taker-markerpathis.herokuapp.com/",
     githubUrl: "https://github.com/markerpathis/express-js-note-taker",
     image: portfolioImage4,
@@ -59,7 +59,7 @@ const portfolioContent = [
   {
     id: 6,
     title: "Work Day Scheduler",
-    description: "Short description... Work Day Schedule",
+    description: "October 2022",
     deployedUrl: "https://markerpathis.github.io/work-day-scheduler/",
     githubUrl: "https://github.com/markerpathis/work-day-scheduler",
     image: portfolioImage5,
