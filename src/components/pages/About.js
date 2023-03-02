@@ -15,8 +15,7 @@ export default function About() {
         boot camp.
         <br />
         <br />
-        So far in the boot camp we've learned HTML, CSS, and we're just getting started on JavaScript! Later on in the boot camp I'll be learning Node, SQL, MongoDB, React, and more. Check back here
-        later to see more!
+        Check back here later to see more!
       </p>
     </div>
   );

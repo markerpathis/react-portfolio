@@ -7,4 +7,6 @@
 .body {
   background-color: #f1faee;
   color: black;
+  max-width: 1440px;
+  margin: auto;
 }
