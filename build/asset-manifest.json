@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2cab247.css",
-    "main.js": "/static/js/main.b0dfeb14.js",
+    "main.css": "/static/css/main.84ab599e.css",
+    "main.js": "/static/js/main.1fb976a4.js",
+    "static/media/jp-choose-your-own.jpg": "/static/media/jp-choose-your-own.500dcd692d469b32f960.jpg",
+    "static/media/top-down-view1.jpg": "/static/media/top-down-view1.fa9dee0baeacacdd4fc9.jpg",
+    "static/media/top-down-view2.jpg": "/static/media/top-down-view2.74a1cde429f74b91c03c.jpg",
+    "static/media/movie-moodboard.png": "/static/media/movie-moodboard.ebe17b0ef4bb07bb370a.png",
+    "static/media/sketch-plan.jpg": "/static/media/sketch-plan.9b269b75f0686e491936.jpg",
+    "static/media/retro-systems.jpg": "/static/media/retro-systems.d6881ce2173e6f27da39.jpg",
+    "static/media/parkerImage.png": "/static/media/parkerImage.305bd33d7c97fef3c019.png",
+    "static/media/Resume.pdf": "/static/media/Resume.5c8f41e1fae257ea78f2.pdf",
     "index.html": "/index.html",
-    "main.c2cab247.css.map": "/static/css/main.c2cab247.css.map",
-    "main.b0dfeb14.js.map": "/static/js/main.b0dfeb14.js.map"
+    "main.84ab599e.css.map": "/static/css/main.84ab599e.css.map",
+    "main.1fb976a4.js.map": "/static/js/main.1fb976a4.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.b0dfeb14.js"
+    "static/css/main.84ab599e.css",
+    "static/js/main.1fb976a4.js"
   ]
 }
